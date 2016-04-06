@@ -20,3 +20,7 @@
 ssh macbook
 say "HELLO I'M GHOST"
 ```
+
+### Notify when command fails / completes
+`npm run watch || notify-send 'BUILD FAILED DISASTROUSLY' `
+`<some-long-running-command>; notify-send 'FINISH!'`
