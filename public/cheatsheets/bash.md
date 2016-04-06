@@ -14,3 +14,9 @@
 
 ### Copy things to / from server
 `scp <path-to-file> <user>@<host>:<path-to-dest>`
+
+### SSH into another device and say stuff with speakers. 10/10
+```
+ssh macbook
+say "HELLO I'M GHOST"
+```
