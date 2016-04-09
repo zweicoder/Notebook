@@ -28,3 +28,6 @@ or if no one is working on the repo,
 
 ### Rename branch
 `git branch -m  `
+
+### Force add ignored file
+`git add --force my/ignore/file.foo`
